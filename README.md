@@ -10,8 +10,13 @@ Repository chứa các trang HTML về chính sách, điều khoản và hỗ tr
 
 ## GitHub Pages
 
-Các trang này có thể được host trên GitHub Pages tại:
-https://hvan128.github.io/pastoX-policy/
+Các trang này được host trên GitHub Pages và có thể truy cập tại:
+
+- **Chính sách Bảo mật**: https://hvan128.github.io/pastoX-policy/privacy-policy.html
+- **Điều khoản Sử dụng**: https://hvan128.github.io/pastoX-policy/terms-of-service.html
+- **Trang Hỗ trợ**: https://hvan128.github.io/pastoX-policy/support.html
+
+Base URL: https://hvan128.github.io/pastoX-policy/
 
 ## Cập nhật
 
